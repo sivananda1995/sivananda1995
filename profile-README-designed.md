@@ -7,14 +7,14 @@
 [![Profile views](https://komarev.com/ghpvc/?username=sivananda1995&style=flat-square&color=39d353&label=profile+views)](https://github.com/sivananda1995)
 [![Repositories](https://img.shields.io/badge/repos-8_engineered-1f6feb?style=flat-square)](https://github.com/sivananda1995?tab=repositories)
 [![Tests](https://img.shields.io/badge/tests-1%2C807_passing-39d353?style=flat-square)](https://sivananda1995.github.io/portfolio/)
-[![Portfolio](https://img.shields.io/badge/portfolio-hub-a371f7?style=flat-square)](https://sivananda1995.github.io/portfolio/)
+
 
 **I build tools around one question: what does this artefact structurally fail to tell you?**
 
 </div>
 
 ---
-
+<div align="center">
 <table>
 <tr>
 <td width="20%" align="center"><h3>⏳ 8+</h3><sub>YEARS IN PRODUCTION</sub></td>
@@ -29,6 +29,7 @@
 > graph has no edge for. A threshold on a small golden set cannot separate a regression from noise. A
 > byte that has been sent cannot be recalled. Every repository on this profile supplies what the usual
 > artefact cannot, and leads with the number it would rather not publish.
+</div>
 
 ---
 
@@ -239,49 +240,22 @@ of 3 blocking actions unsupported by the evidence, and 24 letters switch a fail-
 
 <div align="center">
 
-**[→ The portfolio hub](https://sivananda1995.github.io/portfolio/)** ·
-**[→ Resume claims mapped to evidence](https://sivananda1995.github.io/portfolio/coverage-map.html)**
+
 
 </div>
 
 ---
 
-## 🧰 How All Eight Are Built
-
-<table>
-<tr><td width="33%">
-
-**The uncomfortable number leads**
-
-The unattributed 1.2%. The two evasions that still work. The three blocking actions the corpus cannot
-justify. The fix everybody recommends, losing.
-
-</td><td width="33%">
-
-**Numbers are machine-checked**
-
-Each repository re-measures every published figure and fails the build when a document quotes a stale
-one, matching anchored phrases rather than bare digits.
-
-</td><td width="33%">
-
-**Offline and reproducible**
-
-No API keys, no cloud credentials, no network calls. `make verify` reproduces every number on a
-laptop, and CI reproduces it on three Pythons.
-
-</td></tr>
-</table>
-
----
 
 ## 🎓 Credentials
+<div align="center">
 
 ![AWS Certified](https://img.shields.io/badge/AWS-Data_Engineer-0d1117?style=flat-square&logo=amazonwebservices&logoColor=a371f7)
 ![Databricks Certified](https://img.shields.io/badge/Databricks-Data_Engineer-0d1117?style=flat-square&logo=databricks&logoColor=39d353)
 ![MS Computer Science](https://img.shields.io/badge/MS-Computer_Science_2022-1f6feb?style=flat-square)
 
----
+</div>
+
 
 <div align="center">
 
@@ -291,11 +265,8 @@ laptop, and CI reproduces it on three Pythons.
   <img src="https://img.shields.io/badge/Email-sivananda0968%40gmail.com-39d353?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email">
 </a>
 <!-- Replace YOUR-HANDLE with your real LinkedIn vanity URL before pushing. -->
-<a href="https://www.linkedin.com/in/YOUR-HANDLE">
+<a href="https://www.linkedin.com/in/sivanandajulakanti">
   <img src="https://img.shields.io/badge/LinkedIn-connect-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn">
-</a>
-<a href="https://sivananda1995.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-eight_repositories-a371f7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Portfolio">
 </a>
 
 <br><br>
@@ -305,7 +276,6 @@ model that has to score well on a benchmark.</sub>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sivananda1995&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=8b949e&icon_color=1f6feb&hide=issues" alt="GitHub stats" height="150">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivananda1995&layout=compact&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=8b949e" alt="Top languages" height="150">
+
 
 </div>
